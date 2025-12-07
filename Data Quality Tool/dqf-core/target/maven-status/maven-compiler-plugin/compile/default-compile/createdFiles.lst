@@ -1,0 +1,13 @@
+com\dataquality\config\ConfigReader$1.class
+com\dataquality\db\DBConnection.class
+com\dataquality\main\DataQualityExcelTool.class
+com\dataquality\main\DataQualityTool.class
+com\dataquality\validation\PostalCodeValidator.class
+com\dataquality\report\ExcelReportGenerator$ValidationResult.class
+com\dataquality\validation\AddressValidator.class
+com\dataquality\validation\RegionValidator.class
+com\dataquality\main\DataQualityExcelTool$Candidate.class
+com\dataquality\validation\NameValidator.class
+com\dataquality\validation\RegionValidator$RegionLookupRow.class
+com\dataquality\config\ConfigReader.class
+com\dataquality\report\ExcelReportGenerator.class

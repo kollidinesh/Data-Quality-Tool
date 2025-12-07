@@ -1,0 +1,6 @@
+com\dataquality\web\DownloadController.class
+com\dataquality\web\LogStream$LogListener.class
+com\dataquality\web\DqfWebApplication.class
+com\dataquality\web\LogController.class
+com\dataquality\web\LogStream.class
+com\dataquality\web\RunController.class
